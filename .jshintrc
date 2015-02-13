@@ -1,5 +1,5 @@
 {
-"undef"         : false,     // true: Require all non-global variables to be declared (prevents global leaks)
-"loopfunc"      : false,     // true: Tolerate functions being defined in loops
-"unused"        : false,     // true: Require all defined variables be used
+  "undef"         : false,     // true: Require all non-global variables to be declared (prevents global leaks)
+  "loopfunc"      : false,     // true: Tolerate functions being defined in loops
+  "unused"        : false      // true: Require all defined variables be used
 }
